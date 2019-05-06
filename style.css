@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: #0000ff;
+    text-align: center;
+    padding: 20px;
+}
+.conteudo {
+    display: grid;
+    grid-template-columns: 145px 40% 40%;
+    background-color: #8888ff;
+}
+
+.sobre {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    text-align: center;
+    background-color: #5555ff;
+}
+
+.rodape {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    text-align: center;
+    background-color: #0000ff;
+}
+
+.left {
+    text-align: left;
+    margin: 25px;
+}
+
+.right {
+    text-align: right;
+    margin: 25px;
+}
+
